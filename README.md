@@ -226,5 +226,3 @@ docker compose up -d --build
 
 ---
 
-**Môn:** Công nghệ Java — **
-**Trường:** ĐH Giao thông Vận tải — Phân hiệu TP. Hồ Chí Minh
