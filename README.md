@@ -1,8 +1,8 @@
-# Hệ thống Quản lý Cơ sở Vật chất UTC2
+# Hệ thống Quản lý Cơ sở Vật chất 
 
 ## 1. Tổng quan project
 
-**Facility Manager** là ứng dụng web quản lý cơ sở vật chất, phục vụ công tác quản lý phòng học, tài sản, người dùng và phân quyền tại UTC2.
+**Facility Manager** là ứng dụng web quản lý cơ sở vật chất, phục vụ công tác quản lý phòng học, tài sản, người dùng và phân quyền tại .
 
 Hệ thống được xây dựng theo mô hình **Client–Server**:
 
@@ -165,7 +165,7 @@ docker compose up -d --build
 
 | Username | Password | Vai trò |
 |----------|----------|---------|
-| `adminutc2` | `123456` | ADMIN |
+| `admin` | `123456` | ADMIN |
 | `truongkhoa001` | `123456` | MANAGER |
 | `nv001` | `123456` | STAFF |
 | `sv001` | `123456` | STUDENT |
